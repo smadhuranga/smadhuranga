@@ -1,60 +1,86 @@
-# 👋 Hi, I'm Supun Madhuranga
+# <div align="center">👋 Hi, I'm Supun Madhuranga</div>
 
 <div align="center">
   
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmadhuranga%2Fsmadhuranga&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
-[![GitHub Forks](https://img.shields.io/github/forks/smadhuranga/smadhuranga?label=Forks&style=social)](https://github.com/smadhuranga/smadhuranga/network/members)
-[![GitHub Stars](https://img.shields.io/github/stars/smadhuranga/smadhuranga?style=social)](https://github.com/smadhuranga/smadhuranga/stargazers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Engineer;Tech+Innovation+Leader)](https://git.io/typing-svg)
 
-[![Repo Size](https://img.shields.io/github/repo-size/smadhuranga/smadhuranga?color=purple&label=Repo%20Size&style=plastic)](https://github.com/smadhuranga/smadhuranga)
-![Author](https://img.shields.io/static/v1?label=Author&message=Madhuranga&color=purple&style=plastic)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Supun+Madhuranaga;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=smadhuranga&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/smadhuranga)
+[![GitHub followers](https://img.shields.io/github/followers/smadhuranga?style=for-the-badge&color=2F81F7&labelColor=1a1e22)](https://github.com/smadhuranga?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/smadhuranga?style=for-the-badge&color=2F81F7&labelColor=1a1e22&logo=twitter)](https://twitter.com/smadhuranga)
 
 </div>
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 💻 Software Developer passionate about creating innovative solutions
-- ☁️ Cloud Computing enthusiast
-- 🛠️ DevOps practitioner
-- 🌱 Always learning and exploring new technologies
-- 🤝 Open to collaboration on exciting projects
+```javascript
+const amsmadhuranga = {
+    role: "Full Stack Developer",
+    code: ["JavaScript", "Java"],
+    technologies: {
+        frontend: ["React","Java Fx","CSS"],
+        backend: ["Node.js","Java"],
+        database: ["MongoDB", "MySQL"],
+        tools: ["Git"]
+    };
+```
 
-## 🔧 Technologies & Tools
+## 📊 GitHub Stats
 
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smadhuranga&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F81F7&icon_color=2F81F7&text_color=ffffff&count_private=true" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=smadhuranga&theme=github-dark&hide_border=true&background=0d1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+</div>
 
-## 🎯 Current Focus
+## 💻 Tech Stack
 
-- 🔭 Working on exciting software projects
-- 📚 Expanding knowledge in cloud-native technologies
-- 🤖 Exploring automation and DevOps practices
-- 🌐 Building scalable web applications
+<div align="center">
 
-## 📈 GitHub Stats
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+## 🏆 GitHub Trophies
 
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=smadhuranga&show_icons=true&theme=radical)](https://github.com/smadhuranga)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smadhuranga&layout=compact&theme=radical)](https://github.com/smadhuranga)
+[![trophy](https://github-profile-trophy.vercel.app/?username=smadhuranga&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## 📫 Connect With Me
+## 📈 Contribution Graph
 
-- 🌐 GitHub: [smadhuranga](https://github.com/smadhuranga)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/smadhuranga)
+<div align="center">
+  
+[![Madhuranga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smadhuranga&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=2F81F7&line=2F81F7&point=2F81F7)](https://github.com/smadhuranga)
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smadhuranga)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smadhuranga)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smadhuranga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smadhuranga.github.io)
+
+</div>
 
 ---
 
 <div align="center">
   
-### 🌟 Don't forget to star repositories if you find them interesting!
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**[🌟 Star my repositories](https://github.com/smadhuranga?tab=repositories) if you find them interesting!**
 
 </div>
