@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Engineer;Tech+Innovation+Leader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Engineer;Tech+Innovation)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=smadhuranga&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/smadhuranga)
 [![GitHub followers](https://img.shields.io/github/followers/smadhuranga?style=for-the-badge&color=2F81F7&labelColor=1a1e22)](https://github.com/smadhuranga?tab=followers)
